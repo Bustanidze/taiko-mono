@@ -1,5 +1,20 @@
 # Changelog
 
+## [0.5.0](https://github.com/taikoxyz/taiko-mono/compare/website-v0.4.1...website-v0.5.0) (2023-03-22)
+
+
+### Features
+
+* **website:** add link to the alpha-2 explainer blog post ([#13402](https://github.com/taikoxyz/taiko-mono/issues/13402)) ([0d588b1](https://github.com/taikoxyz/taiko-mono/commit/0d588b1cdc3b0c8ca59114266b0ad1d5f6537952))
+* **website:** alpha-2 testnet docs ([#13372](https://github.com/taikoxyz/taiko-mono/issues/13372)) ([e2fcd9b](https://github.com/taikoxyz/taiko-mono/commit/e2fcd9bf771334436a1f829e63a9982a162ed9d1))
+
+
+### Bug Fixes
+
+* **website:** add run a prover ([#13399](https://github.com/taikoxyz/taiko-mono/issues/13399)) ([9d68016](https://github.com/taikoxyz/taiko-mono/commit/9d6801615d24ea4998fe863e8a2f380d3f2821cc))
+* **website:** announcement status link ([#13398](https://github.com/taikoxyz/taiko-mono/issues/13398)) ([c056c71](https://github.com/taikoxyz/taiko-mono/commit/c056c7158b0f85938d173794a498dbee44f10c3a))
+* **website:** update run a prover docs ([#13401](https://github.com/taikoxyz/taiko-mono/issues/13401)) ([6f5bb9d](https://github.com/taikoxyz/taiko-mono/commit/6f5bb9dabf5140d72850b99996ac959b42458426))
+
 ## [0.4.1](https://github.com/taikoxyz/taiko-mono/compare/website-v0.4.0...website-v0.4.1) (2023-03-15)
 
 
